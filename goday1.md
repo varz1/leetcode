@@ -1,0 +1,1 @@
+#Golang学习日记day1##变量声明1.单个声明```var 变量名 数据类型```2.批量声明```var (    a string    b bool    c int)```3.除非全局变量所有变量声明需使用4.三种Print```Print //无格式化Printf //格式化输出 eg.fmt.Printf("name:%s",name)Println //自动换行```5.驼峰命名```var studentName```
